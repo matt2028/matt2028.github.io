@@ -10,7 +10,7 @@ matt2028.github.io
 <p>I am a college student at York Univeristy. I live in Canada.</p>
 
 
- <p> Tennis <p></head>
+ <p> Tennis <p>
 
 <h2>Image Insertion in HTML</h2>
  <img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="tennis"
