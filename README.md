@@ -9,7 +9,8 @@ matt2028.github.io
 <p>Matthew Suit</p>
 <p>I am a college student at York Univeristy. I live in Canada.</p>
 
-
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 
 
 <!DOCTYPE html>
