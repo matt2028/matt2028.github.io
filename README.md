@@ -15,7 +15,7 @@ matt2028.github.io
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tennis </title>
+    <p> Tennis <p>
 </head>
 <body>
     <h2>Image Insertion in HTML</h2>
