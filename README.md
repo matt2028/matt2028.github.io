@@ -13,7 +13,7 @@ matt2028.github.io
 <p style="background-color:Tomato;"> </p>
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <p> Tennis <p>
