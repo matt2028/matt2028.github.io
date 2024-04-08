@@ -18,7 +18,7 @@ matt2028.github.io
     <p> Tennis <p>
 </head>
 <body>
-    
+    <h2>Image Insertion in HTML</h2>
     <img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="tennis"
     <img src="https://wallpapercave.com/wp/wp3088699.jpg" alt="Tennis ball">
 </body>
