@@ -1,7 +1,7 @@
 matt2028.github.io
 <!DOCTYPE html>
 <html>
-<head>
+
 <body style="background-color:DodgerBlue;"> 
 
 <h1> Welcome to my page </h1>
