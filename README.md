@@ -2,7 +2,7 @@ matt2028.github.io
 <!DOCTYPE html>
 <html>
 <head>
-<p>Welcome to my page <p>
+<h1>Welcome to my page <h1>
 </head>
 <body>
 
